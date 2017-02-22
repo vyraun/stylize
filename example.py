@@ -17,7 +17,7 @@ if __name__ == "__main__":
 	try:
 		path = sys.argv[1]
 	except:
-		path = 'resources/iggy.jpg'
+		path = 'resources/iggy_small.jpg'
 
 	print "Going to go through a few examples using the stylize.render"
 
